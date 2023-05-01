@@ -30,9 +30,7 @@ setuptools.setup(
         'Development Status :: 1 - Planning',
         'Natural Language :: English',
         'Operating System :: OS Independent',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.3',
     ],
     keywords=['testing', 'race conditions'],
-
-    install_requires=['mock>=1.0.1'],
 )
